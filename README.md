@@ -8,6 +8,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone https://github.com/devraj4522/fileUpload.git
+
 $ cd sample-django-app
 ```
 
@@ -19,6 +20,7 @@ $ cd sample-django-app
 
 ```python
 pip install -r requirements.txt
+
 python manage.py createsuperuser
 
 python manage.py makemigeration

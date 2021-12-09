@@ -1,3 +1,5 @@
 .env 
 gd.json
 env
+
+db.sqlite3
